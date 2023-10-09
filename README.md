@@ -1,2 +1,5 @@
-# CS5405-SP2022-HW5
-My solution for Spring 2022 CS5405 assignment #5 at Missouri S&amp;T
+# CS5405 Assignment #5
+
+The purpose of this assignment was to determine if two circles overlap. The file name was required to be "Demo."
+
+This code was developed to run on Java JDK 8u321.
